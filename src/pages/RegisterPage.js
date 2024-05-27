@@ -60,7 +60,7 @@ const RegisterPage = () => {
           />
         </Form.Group>
 
-        <Form.Group className='mb-3' controlId='formBasicPassword'>
+        <Form.Group className='mb-3' controlId='formSecondPassword'>
           <Form.Label>re-enter the password</Form.Label>
           <Form.Control
             type='password'
